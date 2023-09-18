@@ -2,4 +2,5 @@ pierwsza linijka
 druga linijka
 jakas zmiana 
 jakas zmiana 2
-zmiana 3
+zmiana3 z nowa lin
+zmiana 4 z nowa lin
